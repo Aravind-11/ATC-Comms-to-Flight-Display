@@ -6,20 +6,24 @@ Use python 3.7 and above
 
 - Install Whisper
 
-```pip install -U openai-whisper
+```
+pip install -U openai-whisper
 ```
 - Support tool
   
-```brew install ffmpeg
+```
+brew install ffmpeg
 ```
 
 - Install Replicate
-```pip install replicate
+```
+pip install replicate
 ```
 
 - A replicate token from the replicate website can be retrieved and used here
 
-```export REPLICATE_API_TOKEN=<paste-your-token-here>
+```
+export REPLICATE_API_TOKEN=<paste-your-token-here>
 ```
 
 ### Install Instructions
